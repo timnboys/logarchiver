@@ -1,4 +1,4 @@
-module github.com/TicketsBot/logarchiver
+module github.com/timnboys/logarchiver
 
 go 1.14
 
